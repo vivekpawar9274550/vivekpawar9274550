@@ -2,7 +2,7 @@
 <h3 align="center">A highly proactive IT student eager to combine my academic achievements with real-life experiences. With a passion for technology and a curious mind, I actively seek opportunities to expand my knowledge and explore emerging trends in the IT field. I am excited to contribute my enthusiasm, creativity, and dedication to contribute to the success of your esteemed organization while continuing to learn and grow in the IT industry.</h3>
 
 
-- 🔭 I’m currently working on **Agentic-AI HR Compliance **
+- 🔭 I’m currently working on **Agentic-AI HR Compliance**
 
 - 💬 Ask me about **Python,ML,Numpy,Pandas,DSA,Pyspark**
 
